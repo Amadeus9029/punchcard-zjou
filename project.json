@@ -1,0 +1,10 @@
+{
+    "name": "ZJOU_PunchCard",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.autoscript.zjou.punchcard",
+    "versionName": "0.0.1",
+    "versionCode": 1
+}
